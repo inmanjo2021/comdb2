@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 ENV PATH      $PATH:/opt/bb/bin
 
